@@ -134,7 +134,7 @@ btn.addEventListener("click", () => {
      //Start for another event
    btn2.addEventListener("click", () => {
        cont.remove();
-       audio.src = "eight.mp3";
+       audio.src = "Eight.mp3";
        
        audio.play();
        document.body.appendChild(cont2);
